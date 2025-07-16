@@ -7,9 +7,9 @@ StudySync (Temporary Name)
 # Member Roles
 Note: These roles are not final and are subject to change!
 
-Miguelangel Ortega: Project Manager   GitHub: https://github.com/Mirio1010      HTML File: 
-Muhammad Jamal: Frontend Developer    GitHub: https://github.com/muj-786        HTML File:
-Sufian Ali: Backend Developer         GitHub: https://github.com/Sufian000      HTML File:
+Miguelangel Ortega: Project Manager----GitHub: https://github.com/Mirio1010      HTML File: 
+Muhammad Jamal: Frontend Developer-----GitHub: https://github.com/muj-786        HTML File:
+Sufian Ali: Backend Developer----------GitHub: https://github.com/Sufian000      HTML File:
 
 # Project Idea
 Study Group Matcher is a web application designed to help students connect and collaborate by joining or creating study groups. Users can browse groups based on course topics, availability, studying preferences (e.g., flashcards, discussion-based), and academic goals (e.g., exam prep, weekly reviews). By using a smart matching system, students can find study partners that suit their learning styles and schedules, enhancing both collaboration and productivity. 
