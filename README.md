@@ -1,2 +1,27 @@
 # Study-Group-Website
 A web app that connects students with compatible study partners by matching them based on course topics, study preferences, availability, and academic goals. Create or join study groups tailored to your learning style.
+
+# Team Name:
+StudySync (Temporary Name)
+
+# Member Roles
+Note: These roles are not final and are subject to change!
+
+Miguelangel Ortega: Project Manager   GitHub: https://github.com/Mirio1010      HTML File: 
+Muhammad Jamal: Frontend Developer    GitHub: https://github.com/muj-786        HTML File:
+Sufian Ali: Backend Developer         GitHub: https://github.com/Sufian000      HTML File:
+
+# Project Idea
+Study Group Matcher is a web application designed to help students connect and collaborate by joining or creating study groups. Users can browse groups based on course topics, availability, studying preferences (e.g., flashcards, discussion-based), and academic goals (e.g., exam prep, weekly reviews). By using a smart matching system, students can find study partners that suit their learning styles and schedules, enhancing both collaboration and productivity. 
+
+We will also try to incorporate a messaging system that will allow students to message each other. If we get that working to our standards, we will also try implementing video calling aswell.
+
+# Flowchart
+
+<img width="316" height="631" alt="Website_Flowchart" src="https://github.com/user-attachments/assets/388235a9-d5d4-4966-a79f-6c09ab76b728" />
+
+# Repository Structure
+The project will be organized in 3 folders. They are as follows; Frontend, Backend, and Assets.
+
+
+
