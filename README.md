@@ -4,9 +4,6 @@ A web app that connects students with compatible study partners by matching them
 # Team Name:
 StudySync (Temporary Name)
 
-# Member Roles
-Note: These roles are not final and are subject to change!
-
 ## 👥 Member Roles
 
 > *Note: These roles are not final and are subject to change!*
