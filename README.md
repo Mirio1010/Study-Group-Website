@@ -28,5 +28,6 @@ We will also try to incorporate a messaging system that will allow students to m
 # Repository Structure
 The project will be organized in 3 folders. They are as follows; Frontend, Backend, and Assets.
 
+# Initial Layout Of Real-Time Communication App
 
-
+<img width="1366" height="768" alt="Real-Time Communication Graphics for Web App-2" src="https://github.com/user-attachments/assets/9e4063eb-4389-4da9-960b-c0b19a066116" /><img width="1366" height="768" alt="Real-Time Communication Graphics for Web App" src="https://github.com/user-attachments/assets/fc3008c5-2109-4798-8384-bd8d473ee062" />
