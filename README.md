@@ -12,7 +12,7 @@ StudySync (Temporary Name)
 |--------------------|--------------------|---------------------------------------------|--------------------------------------------------------------------------------------------------|
 | Miguelangel Ortega | Project Manager    | [Mirio1010](https://github.com/Mirio1010)   | [Miguelangel_Ortega.html](https://Mirio1010.github.io/Study-Group-Website/Members%20HTML%20files/Miguelangel_Ortega.html) |
 | Muhammad Jamal     | Frontend Developer | [muj-786](https://github.com/muj-786)       |                                                                                                  |
-| Sufian Ali         | Backend Developer  | [Sufian000](https://github.com/Sufian000)   |                                                                                                  |
+| Sufian Ali         | Backend Developer  | [Sufian000](https://github.com/Sufian000)   |[Sufian Ali.html] (Members HTML files/Sufian Ali.html)                                                                                                  |
 
 
 
