@@ -8,12 +8,12 @@ StudySync (Temporary Name)
 
 > *Note: These roles are not final and are subject to change!*
 
-| Name               | Role               | GitHub Profile                              | HTML File |
-|--------------------|--------------------|---------------------------------------------|-----------|
-| Miguelangel Ortega | Project Manager    | [Mirio1010](https://github.com/Mirio1010)   | [Miguelangel_Ortega.html]https://Mirio1010.github.io/Study-Group-Website/Members%20HTML%20files/Miguelangel_Ortega.html|
-         
-| Muhammad Jamal     | Frontend Developer | [muj-786](https://github.com/muj-786)       |           |
-| Sufian Ali         | Backend Developer  | [Sufian000](https://github.com/Sufian000)   |           |
+| Name               | Role               | GitHub Profile                              | HTML File                                                                                       |
+|--------------------|--------------------|---------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Miguelangel Ortega | Project Manager    | [Mirio1010](https://github.com/Mirio1010)   | [Miguelangel_Ortega.html](https://Mirio1010.github.io/Study-Group-Website/Members%20HTML%20files/Miguelangel_Ortega.html) |
+| Muhammad Jamal     | Frontend Developer | [muj-786](https://github.com/muj-786)       |                                                                                                  |
+| Sufian Ali         | Backend Developer  | [Sufian000](https://github.com/Sufian000)   |                                                                                                  |
+
 
 
 # Project Idea
