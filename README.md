@@ -19,7 +19,7 @@ StudySync (Temporary Name)
 # Project Idea
 Study Group Matcher is a web application designed to help students connect and collaborate by joining or creating study groups. Users can browse groups based on course topics, availability, studying preferences (e.g., flashcards, discussion-based), and academic goals (e.g., exam prep, weekly reviews). By using a smart matching system, students can find study partners that suit their learning styles and schedules, enhancing both collaboration and productivity. 
 
-We will also try to incorporate a messaging system that will allow students to message each other. If we get that working to our standards, we will also try implementing video calling aswell.
+We will also try to incorporate a messaging system that will allow students to message each otherr. If we get that working to our standards, we will also try implementing video calling aswell.
 
 # Flowchart
 
